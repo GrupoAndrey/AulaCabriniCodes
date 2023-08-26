@@ -1,0 +1,8 @@
+Instruçoes para o projeto NMAP
+
+Passos:
+
+git clone https://github.com/GrupoAndrey/AulaCabriniCodes.git
+cd AulaCabriniCodes (Entrar na pasta)
+pip3 install -r requirements.txt (Instalar as bibliotecas)
+python3 NmapCabrini.py (Rodar o programa em python)
